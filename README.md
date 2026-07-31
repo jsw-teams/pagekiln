@@ -378,4 +378,6 @@ Node.js version: 22.12 或更新
 
 Pagekiln 使用 `AGPL-3.0-or-later`。基于 Pagekiln 修改、分发、公开部署或二次开发的版本，应按 AGPL 要求继续开源对应源码。
 
-请保留原作者标注：`Pagekiln by JSW Teams`，并保留或等效展示仓库中的 `NOTICE` 信息与原始仓库链接。
+版权持有人 JSW Teams 保留将其完整持有版权的 Pagekiln 代码以其他条款授权、用于商业闭源部署，并在该类部署中免除公开对应源码与可见署名要求的权利。此版权持有人例外不向第三方授予商业闭源许可；第三方仍须遵守 AGPL，或取得 JSW Teams 的明确许可。
+
+除上述版权持有人例外外，请保留原作者标注：`Pagekiln by JSW Teams`，并保留或等效展示仓库中的 `NOTICE` 信息与原始仓库链接。
